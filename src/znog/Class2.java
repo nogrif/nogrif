@@ -10,6 +10,7 @@ public class Class2{
 
     /** co class 2. */
     protected String coClass2;
+    
 
     /** li class 2. */
     protected String liClass2;
